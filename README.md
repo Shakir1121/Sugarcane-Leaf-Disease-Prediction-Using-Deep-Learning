@@ -1,1 +1,5 @@
 # Sugarcane-Leaf-Disease-Prediction-Using-Deep-Learning
+# Introduction:
+Sugarcane farming is vulnerable to various diseases that can significantly impact crop yield and quality. Traditional disease detection methods are time-consuming and require expertise. This project utilizes deep learning (CNN) and transfer learning techniques to automate disease detection, enhancing accuracy and reducing the time required for farmers to identify affected crops. By analyzing images of sugarcane leaves, the model can efficiently predict diseases such as Bacterial Blight and Red Rot and healthy, offering a timely solution to farmers.
+# Problem Statement:
+Sugarcane diseases can have a big negative impact on crop output and quality, effect in financial losses for farms and the sugar business. Manually detection of diseases based on expert reviews, which can be time-consuming and may be to human mistake and also tough. Therefore to solve problem a reliable, automated method is needed which is used in this project for the early identification and evaluation of illnesses affecting sugarcane. 
